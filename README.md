@@ -4,7 +4,7 @@
 
 [Playing hide-n-seek with AWS GuardDuty: Post-DNS era covert channel for C&C and data exfiltration](https://conference.hitb.org/hitbsecconf2021ams/sessions/commsec-aws-guardduty-post-dns-era-covert-channel-for-cc-and-data-exfiltration/)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ntrRjOXsi6I/0.jpg)](http://www.youtube.com/watch?v=ntrRjOXsi6I "AWS GuardDuty: Post-DNS era covert channel for C&C and data exfiltration")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/liQjug4uFQI/0.jpg)](http://www.youtube.com/watch?v=liQjug4uFQI "AWS GuardDuty: Post-DNS era covert channel for C&C and data exfiltration")
 
 Note: The PoC is only tested on Python 3.9
 
